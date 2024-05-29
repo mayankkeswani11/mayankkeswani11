@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Myanak Keswani! 👋
 
-<!--
-**mayankkeswani11/mayankkeswani11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Third-Year Information Technology Engineering Student** | Aspiring Software Developer
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
+- **Languages:** C, C++,Java
+- **Web Development:** HTML, CSS, JavaScript, React
+- **Databases:** MySQL, MongoDB
+- **Tools:** Git,Visual Studio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Data Structures and Algorithms
+
+## 👯 Looking to Collaborate On
+- Open-source projects
+- Web development projects
+
+## 💬 Let's Connect
+- Email: mayankkeswani0211@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/mayank-keswani-247475233/)
+
+## ⚡ Fun Facts
+- Enthusiastic about tech meetups and hackathons
+- Love experimenting with new programming languages and technologies
+- Love to dance. 
