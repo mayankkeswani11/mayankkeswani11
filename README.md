@@ -1,4 +1,4 @@
-# Hi there, I'm Myanak Keswani! 👋
+# Hi there, I'm Mayank Keswani! 👋
 
 🎓 **Third-Year Information Technology Engineering Student** | Aspiring Software Developer
 
