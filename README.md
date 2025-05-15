@@ -1,6 +1,6 @@
 # Hi there, I'm Mayank Keswani! 👋
 
-🎓 **Third-Year Information Technology Engineering Student** | Aspiring Software Developer
+🎓 **Final-Year Information Technology Engineering Student** | Aspiring Software Developer
 
 ## 🛠️ Technologies & Tools
 - **Languages:** C, C++,Java
